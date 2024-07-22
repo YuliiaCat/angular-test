@@ -7,7 +7,7 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './password-strength.component.html',
-  styleUrl: './password-strength.component.scss'
+  styleUrls: ['./password-strength.component.scss']
 })
 export class PasswordStrengthComponent implements OnChanges {
   @Input() password: string = '';
