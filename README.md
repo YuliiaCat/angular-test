@@ -1,3 +1,7 @@
+## Demo
+
+Check out the live demo of the task [here](https://yuliiacat.github.io/angular-test/)
+
 # AngularTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.1.
