@@ -1,0 +1,11 @@
+.test {
+  padding: 30px;
+  width: 300px;
+
+  &__label {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+}
